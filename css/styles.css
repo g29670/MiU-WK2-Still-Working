@@ -1,0 +1,151 @@
+/* Page 1 */
+html {
+    background-color: white;
+}
+.content {
+  background-image: url('../images/pattern.png');
+}
+
+h1 {
+    color: #ffffff;
+    font-family: "Lucida Sans", Helvetica;
+    font-size: 26px;
+}
+
+h2 {
+  color: #3a4854;
+  font-family: "Lucida Sans", Helvetica;
+  text-align: center;
+  padding-top: -5px;
+  margin-top: 2px;
+}
+
+h3 {
+  font-family: Helvetica;
+  color: #15506f;
+  text-align: center;
+  margin-top: -10px;
+}
+
+p {
+  font-family: helvetica;
+  font-size: 15px;
+}   
+
+}   nav {
+  text-align: center;
+}
+
+.error-message {
+  margin-top: -10px;
+  margin-bottom: 10px;
+  color: red;
+}
+
+a {
+  font-family: helvetica;
+}
+
+img.additem {
+  padding-bottom: 15px;
+}
+
+div.fieldset1 {
+  margin-bottom: 20px;
+}
+
+div.fieldset2 {
+  text-align: center;
+  padding-bottom: 5px;
+}
+
+.error {
+  border: 1px solid red;
+}
+
+.LogoMain {
+  margin-top: -30px;
+  margin-bottom: -15px;
+}
+
+.Logo {
+  margin-left: 90px;
+}
+
+/* html Page 2 */
+body {
+    font-family: "Helvetica Neue";
+    margin: 1.5em auto;
+    padding: 1.5em;
+    background-color: #EEEEEE;
+    color: #515151;
+    max-width: 35em;
+    border: 0.75em solid #515151;
+    line-height: 1.5em;
+}
+h1 {
+    text-shadow: 0.1em 0.1em 0.2em #4F4F51;
+    background-color: #E0191F;
+    color: #FFFFFF;
+    font-size: 200%;
+    padding: 0.75em;
+    margin: -0.75em -0.75em 0.75em -0.75em;
+    text-align: center
+}
+p {
+    font-family: "Helvetica Neue";
+    font-size-adjust : 100
+    margin: 1.5em 0;
+    text-align: center;
+}
+h1 + h2 {
+    margin-top: -2em;
+    padding-top: 0;
+}
+footer {
+    font-family: "Helvetica Neue";
+    background-color: #E0191F;
+    color: #FFFFFF; 
+    font-size-adjust: 100 
+    margin: 1.5em 0;
+    text-align: center;   
+}
+
+.imgcenter {
+   display:block; 
+   margin:0 auto; 
+   text-align:center; 
+} 
+
+.displayLink {
+   display:block; 
+   margin:0 auto; 
+   float:right; 
+} 
+
+.button {
+   display:block; 
+   margin:0 auto; 
+   text-align:center; 
+} 
+
+.getStarted {
+   display:block; 
+   margin:0 auto; 
+   text-align:center; 
+} 
+.searchbox {
+   display:block;
+   margin:0 auto;
+   text-align:right;
+   width: 100 px; height: 35 px;
+   padding: 1 px; margin: 0 px 0 px 0 px 10 px;
+   background: #f0151f;
+   background-image: -webkit-linear-gradient(#c6c606,#f0151f);
+   background-image: -moz-linear-gradient(#c6c606,#f0151f);
+   border: 1 px solid #f0151f;
+   border-radius: 3 px 35 px 35 px 3 px;
+   cursor: pointer; 
+   font: bold 14 px;
+}   
+
